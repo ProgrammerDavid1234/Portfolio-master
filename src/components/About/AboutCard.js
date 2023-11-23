@@ -10,11 +10,9 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Olonade Oluwanifemi </span>
             from <span className="purple"> Abeokuta Ogun State.</span>
-            <br /> I am a final year student pursuing an Integrated MSc (IMSc)
-            in Maths and Computing at BIT Mesra.
+            <br /> I am a 200Level pursuing an BSc
+            in Computer Science IN KOladaisi University.
             <br />
-            Additionally, I am currently employed as a software developer at
-            Juspay.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
