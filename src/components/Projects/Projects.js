@@ -47,9 +47,9 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="FILE SHARING"
-              description="A local file sharing website created with PHP AND SQL"
-              ghLink="#"
+              title="ESTATE WEBSITE"
+              description="MADE WITH MERN STACK "
+              ghLink="https://github.com/ProgrammerDavid1234/mern-estate"
               demoLink="#"              
             />
           </Col>
