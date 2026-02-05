@@ -49,7 +49,7 @@ function Projects() {
               isBlog={false}
               title="ESTATE WEBSITE"
               description="MADE WITH MERN STACK "
-              ghLink="https://github.com/ProgrammerDavid1234/mern-estate"
+              ghLink="https://github.com/ProgrammerDavid1234/mern-estatei"
               demoLink="#"              
             />
           </Col>
