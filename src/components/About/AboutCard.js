@@ -10,8 +10,8 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Olonade Oluwanifemi </span>
             from <span className="purple"> Abeokuta Ogun State.</span>
-            <br /> I am a 200Level pursuing an BSc
-            in Computer Science IN KOladaisi University.
+            <br /> I am a Final year pursuing an BSc
+            in Computer Science IN Koladaisi University.
             <br />
             <br />
             <br />
