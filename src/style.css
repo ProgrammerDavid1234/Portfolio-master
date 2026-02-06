@@ -159,6 +159,46 @@ button:focus {
   width: 2.5em !important;
 }
 
+.logo-text {
+  display: flex;
+  align-items: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 800;
+  font-size: 1.8rem;
+  letter-spacing: -2px;
+}
+
+.logo-o {
+  display: inline-block;
+  background: linear-gradient(135deg, #c770f0 0%, #6a0dad 50%, #c770f0 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-shadow: 0 0 20px rgba(199, 112, 240, 0.5);
+  transition: all 0.3s ease;
+}
+
+.logo-o:first-child {
+  transform: rotate(-10deg);
+  margin-right: -3px;
+}
+
+.logo-o:last-child {
+  transform: rotate(10deg);
+}
+
+.logo-text:hover .logo-o:first-child {
+  transform: rotate(-20deg) scale(1.1);
+}
+
+.logo-text:hover .logo-o:last-child {
+  transform: rotate(20deg) scale(1.1);
+}
+
+.logo-text:hover .logo-o {
+  text-shadow: 0 0 30px rgba(199, 112, 240, 0.8);
+}
+
 .navbar-nav .nav-link {
   color: white !important;
   padding-right: 1rem !important;
