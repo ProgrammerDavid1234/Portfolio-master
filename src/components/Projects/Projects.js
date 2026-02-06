@@ -25,10 +25,10 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="ECOMMERCE"
-              description="AN ECOMMERCE WEBSITE CREATED WITH JAVASCRIPT"
-              ghLink="ProgrammerDavid1234/anon-ecommerce-website-master"
-              demoLink="jumiaclone2023.netlify.app"
+              title="Hextant Labs"
+              description="A professional AI studio platform featuring advanced AI tools and solutions. Built with modern web technologies for seamless user experience."
+              ghLink="https://github.com/ProgrammerDavid1234/hextant-ai-studio"
+              demoLink="https://hexy.hextantlabs.com"
             />
           </Col>
 
@@ -36,10 +36,10 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="LARACON WEBSITE CLONE"
-              description="An event website created with HTML AND CSS"
-              ghLink="ProgrammerDavid1234/LARA"
-              demoLink="#"
+              title="KDU Blog"
+              description="A full-featured blog platform with content management capabilities. Includes admin dashboard for managing posts and user interactions."
+              ghLink="https://github.com/ProgrammerDavid1234/kdublog"
+              demoLink="https://kdublog.vercel.app"
             />
           </Col>
 
@@ -47,10 +47,10 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="ESTATE WEBSITE"
-              description="MADE WITH MERN STACK "
-              ghLink="https://github.com/ProgrammerDavid1234/mern-estatei"
-              demoLink="#"              
+              title="NACOS KDU Portal"
+              description="A comprehensive student portal for NACOS (Nigeria Association of Computing Students) featuring dues management, past questions, and CGPA calculator."
+              ghLink="https://github.com/ProgrammerDavid1234/nacos-project-hub"
+              demoLink="https://nacoskdu.vercel.app"
             />
           </Col>
 
@@ -58,10 +58,10 @@ function Projects() {
             <ProjectCard
               imgPath={leaf}
               isBlog={false}
-              title="AI PLANT DATASET"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
-              ghLink="#"
-              demoLink="#"
+              title="CurEase Healthcare"
+              description="An AI-powered healthcare platform with WhatsApp integration for seamless patient-doctor communication and appointment management."
+              ghLink="https://github.com/ProgrammerDavid1234/MedAi"
+              demoLink="https://curease.vercel.app"
             />
           </Col>
 
@@ -69,9 +69,10 @@ function Projects() {
             <ProjectCard
               imgPath={suicide}
               isBlog={false}
-              title="NATURAL LANGUAGE DETECTOR"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
-              ghLink="#"
+              title="PayTix Ticketing"
+              description="A modern event ticketing platform with barcode generation for tickets, PDF export functionality, and secure payment processing."
+              ghLink="https://github.com/ProgrammerDavid1234/paytix-ticketing-hub"
+              demoLink="https://paytix.vercel.app"
             />
           </Col>
 
@@ -79,10 +80,10 @@ function Projects() {
             <ProjectCard
               imgPath={emotion}
               isBlog={false}
-              title="Face Recognition and Emotion Detection"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
-              ghLink="#"
+              title="Gesture Recognition"
+              description="An innovative gesture and pose recognition system using MediaPipe for real-time hand tracking and gesture-based interactions."
+              ghLink="https://github.com/ProgrammerDavid1234/gesture-clicker-react-web"
+              demoLink="https://gesturefinalproject.vercel.app"
             />
           </Col>
         </Row>
