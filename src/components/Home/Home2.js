@@ -87,13 +87,14 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/olonadeNifemi/"
+                  href="https://www.instagram.com/olonadenifemi"
                   target="_blank"
                   rel="noreferrer"
-                  className="icon-colour  home-social-icons"
+                  className="icon-colour home-social-icons"
                 >
-                  <FaLinkedinIn />
+                  <AiFillInstagram />
                 </a>
+
               </li>
               <li className="social-icons">
                 <a
