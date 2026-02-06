@@ -18,23 +18,25 @@ function Home2() {
             <h1 style={{ fontSize: "2.6em" }}>
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
+
             <p className="home-about-body">
               I fell in love with programming and I have at least learnt
               something, I think… 🤷‍♂️
               <br />
-              <br />I am fluent in classics like
+              <br />
+              I am fluent in classics like
               <i>
-                <b className="purple"> React, Tailwind and Bootstrap. </b>
+                <b className="purple"> React, Tailwind and Bootstrap.</b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              My field of Interest&apos;s are building new&nbsp;
               <i>
-                <b className="purple">Websites and Web Applications </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Data science.
-                </b>
+                <b className="purple"> Websites and Web Applications </b>
+              </i>
+              and also in areas related to
+              <i>
+                <b className="purple"> Data Science.</b>
               </i>
               <br />
               <br />
@@ -43,62 +45,67 @@ function Home2() {
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  Modern JavaScript Libraries and Frameworks
                 </b>
               </i>
-              &nbsp; like
+              &nbsp;like
               <i>
                 <b className="purple"> React.js and Next.js</b>
               </i>
             </p>
           </Col>
+
           <Col md={4} className="myAvtar">
             <Tilt>
               <img src={myImg} className="img-fluid" alt="avatar" />
             </Tilt>
           </Col>
         </Row>
+
         <Row>
           <Col md={12} className="home-about-social">
             <h1>FIND ME ON</h1>
             <p>
-              Feel free to <span className="purple">connect </span>with me
+              Feel free to <span className="purple">connect</span> with me
             </p>
+
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
                   href="https://github.com/ProgrammerDavid1234"
                   target="_blank"
                   rel="noreferrer"
-                  className="icon-colour  home-social-icons"
+                  className="icon-colour home-social-icons"
                 >
                   <AiFillGithub />
                 </a>
               </li>
+
               <li className="social-icons">
                 <a
                   href="https://twitter.com/olonadeNifemi"
                   target="_blank"
                   rel="noreferrer"
-                  className="icon-colour  home-social-icons"
+                  className="icon-colour home-social-icons"
                 >
                   <AiOutlineTwitter />
                 </a>
               </li>
+
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/olonadenifemi"
+                  href="https://www.linkedin.com/in/olonadenifemi/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
                 >
-                  <AiFillInstagram />
+                  <FaLinkedinIn />
                 </a>
-
               </li>
+
               <li className="social-icons">
                 <a
-                  href="#"
+                  href="https://www.instagram.com/olonadenifemi"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
@@ -113,4 +120,5 @@ function Home2() {
     </Container>
   );
 }
+
 export default Home2;
