@@ -10,9 +10,21 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Olonade Oluwanifemi </span>
             from <span className="purple"> Abeokuta Ogun State.</span>
-            <br /> I am a Final year pursuing an BSc
-            in Computer Science IN Koladaisi University.
+            <br /> I am a Final year pursuing a BSc
+            in Computer Science at Koladaisi University.
             <br />
+            <br />
+            Currently, I work as a <span className="purple">Frontend Developer</span> at{" "}
+            <a
+              href="https://hextantlab.vercel.app/"
+              target="_blank"
+              rel="noreferrer"
+              className="purple"
+              style={{ textDecoration: "none" }}
+            >
+              Hextant Labs
+            </a>
+            , an upcoming startup focused on innovative tech solutions.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!

@@ -24,6 +24,18 @@ function Home2() {
               something, I think… 🤷‍♂️
               <br />
               <br />
+              I'm currently working as a <b className="purple">Frontend Developer</b> at{" "}
+              <a
+                href="https://hextantlab.vercel.app/"
+                target="_blank"
+                rel="noreferrer"
+                style={{ color: "#38bdf8", textDecoration: "none" }}
+              >
+                Hextant Labs
+              </a>
+              , an upcoming startup building innovative solutions.
+              <br />
+              <br />
               I am fluent in classics like
               <i>
                 <b className="purple"> React, Tailwind and Bootstrap.</b>
